@@ -1,0 +1,13 @@
+{
+  "name": "blogr-landing-page-main",
+  "version": "1.0.0",
+  "repository": "https://github.com/ryan1230x/blogr-landing-page.git",
+  "author": "Ryan",
+  "license": "MIT",
+  "scripts": {
+    "sass": "node-sass -w src/scss -o dist/css"
+  },
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
